@@ -3,7 +3,7 @@
 <p> MOBILE DEVELOPER </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ahmed-omar-96a666207/=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRZ3eoZ9aRd2yi2JK9uiLqA%3D%3D)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ahmed-omar-96a666207/)
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
