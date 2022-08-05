@@ -5,8 +5,6 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)]
 (https://www.linkedin.com/in/ahmed-omar-96a666207/)
 
-<!-- <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-
 - 🌱 I’m currently learning **Flutter, Dart**
 
 - 👯 I’m looking to collaborate with **other content creators**
