@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Omar</h1>
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 <p> MOBILE DEVELOPER </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</p>
+<!-- <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ahmed-omar-96a666207/)
 
