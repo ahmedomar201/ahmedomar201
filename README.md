@@ -18,7 +18,7 @@ Development skills and gain more experience to enrich my Software Career.
   <p align="center">
 <a href=https://www.linkedin.com/in/ahmed-omar-96a666207/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" height="30" width="40" /></a>
  
-   🔵 Mobile Development ء
+   🔵 Mobile Development
  
 <p align="center">
   &emsp;
