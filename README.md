@@ -14,10 +14,10 @@ Development skills and gain more experience to enrich my Software Career.
 
 
 
-
-<div  
+</p>
+</div>  
  🔵 Follow Me
-
+<p align="center">
   <a href="https://www.linkedin.com/in/ahmed-omar-96a666207/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
   </a>
@@ -28,11 +28,10 @@ Development skills and gain more experience to enrich my Software Career.
 
    <a href="ahmedomar1997.aoo@gmail.com" mailto="eslam55855@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-  </a>
+  </p>
   
   
-  
-</div>
+
    🔵 Mobile Development
  
 <p align="center">
