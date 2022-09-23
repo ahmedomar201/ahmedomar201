@@ -34,7 +34,10 @@ Development skills and gain more experience to enrich my Software Career.
   </p>
 </div>
 
- 🔵 Mobile Deveolpment
+
+
+
+ 🔵Mobile Development
 <p align="center">
   &emsp;
     <a href="https://flutter.dev"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23F05033.svg?style=plastic&logo=flutter&logoColor=white"></a>
@@ -43,6 +46,7 @@ Development skills and gain more experience to enrich my Software Career.
  
   &emsp;
 </p>
+
 
    🔵 IDEs
  
