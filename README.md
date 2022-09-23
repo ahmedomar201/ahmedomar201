@@ -12,8 +12,6 @@
 I'm an Mobile Developer was 1+ years of experience looking forward to developing my Mobile
 Development skills and gain more experience to enrich my Software Career.
 
-### Skills
-
  Connect with me
 <p align="center"> 
 <a href=https://www.instagram.com/ahmedomar_3/ target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
