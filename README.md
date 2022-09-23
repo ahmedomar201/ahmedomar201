@@ -17,6 +17,9 @@ Development skills and gain more experience to enrich my Software Career.
 <a href=https://www.instagram.com/ahmedomar_3/ target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <p align="center">
 <a href=https://www.linkedin.com/in/ahmed-omar-96a666207/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" height="30" width="40" /></a>
+ <p align="center">
+ <a href=https://www.facebook.com/ahmedaome/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-in-alt.svg" alt=" height="30" width="40" /></a>
+ 
 
    🔵 Mobile Development ء
  
