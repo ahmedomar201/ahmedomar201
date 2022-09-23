@@ -12,12 +12,22 @@
 I'm an Mobile Developer was 1+ years of experience looking forward to developing my Mobile
 Development skills and gain more experience to enrich my Software Career.
 
- Connect with me
-<p align="center"> 
-<a href=https://www.instagram.com/ahmedomar_3/ target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <p align="center">
-<a href=https://www.linkedin.com/in/ahmed-omar-96a666207/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" height="30" width="40" /></a>
- 
+<h2><i>Follow me:</i></h2>
+<div  align="center">
+
+  <a href="https://www.linkedin.com/in/ahmed-omar-96a666207/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
+  </a>
+  
+  <a href="https://www.facebook.com/ahmedaome/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
+  </a>
+
+   <a href="ahmedomar1997.aoo@gmail.com" mailto="eslam55855@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+  </a>
+  
+</div>
    🔵 Mobile Development
  
 <p align="center">
