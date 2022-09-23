@@ -16,7 +16,7 @@ Development skills and gain more experience to enrich my Software Career.
 
 </p>
 </div>  
- 🔵 Follow Me
+ 🔵Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-omar-96a666207/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
