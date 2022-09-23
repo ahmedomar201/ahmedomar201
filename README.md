@@ -32,11 +32,9 @@ Development skills and gain more experience to enrich my Software Career.
       <a href="https://www.instagram.com/ahmedomar_3/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%231877F2.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="instagram">
   </p>
-  
-  
+</div>
 
-   🔵 Mobile Development
- 
+ 🔵 Mobile Deveolpment
 <p align="center">
   &emsp;
     <a href="https://flutter.dev"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23F05033.svg?style=plastic&logo=flutter&logoColor=white"></a>
