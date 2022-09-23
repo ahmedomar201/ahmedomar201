@@ -29,8 +29,6 @@ Development skills and gain more experience to enrich my Software Career.
    <a href="ahmedomar1997.aoo@gmail.com" mailto="eslam55855@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
     </a>
-      <a href="https://www.instagram.com/ahmedomar_3/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%231877F2.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="instagram">
   </p>
 </div>
 
