@@ -1,59 +1,25 @@
-<h1 align="center">Hi 👋, I'm Ahmed Omar</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
-<p> MOBILE DEVELOPER </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-
 - 🌱 I’m currently learning **Flutter, Dart**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-### ![information (2)](https://user-images.githubusercontent.com/41602889/146625378-ef93b978-e468-4ce1-a1eb-ac1ba7aa3aa0.png) A little more about me...  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmedomar_3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-omar-rabie) 
 
-I'm an Mobile Developer was 1+ years of experience looking forward to developing my Mobile
-Development skills and gain more experience to enrich my Software Career.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmedomar201&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedomar201&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedomar201&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ahmedomar201&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</p>
-</div>  
- 🔵Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-omar-96a666207/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
-  </a>
-  
-  <a href="https://www.facebook.com/ahmedaome/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
-  </a>
+---
+[![](https://visitcount.itsvg.in/api?id=ahmedomar201&icon=0&color=0)](https://visitcount.itsvg.in)
 
-   <a href="ahmedomar1997.aoo@gmail.com" mailto="eslam55855@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-    </a>
-  </p>
-</div>
-
-
-
-
- 🔵Mobile Development
-<p align="center">
-  &emsp;
-    <a href="https://flutter.dev"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23F05033.svg?style=plastic&logo=flutter&logoColor=white"></a>
-  &emsp;
-    <a href="https://dart.dev"><img alt="Dart" src="https://img.shields.io/badge/dart-%23181717.svg?style=plastic&logo=dart&logoColor=white"></a>
- 
-  &emsp;
-</p>
-
-
-   🔵 IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Andriod%20Studio-0078d7.svg?&style=plastic&logo=android&studioColor=white" /></a>
-  &emsp;
- </p>
-  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
