@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **Back-End, Java**
+- 🌱 I’m currently learning **Back-End, Java Spring Boot**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
